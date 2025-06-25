@@ -1,0 +1,14 @@
+.titulo{
+    border:1px solid #000;
+    border-radius: 10px;
+    margin: 10px;
+    padding: 10px;
+    background-color: blueviolet;
+    color: #fff;
+}
+
+.paragrafo{
+    margin: 10px;
+    padding: 10px;
+    font-size: 18px;
+}
